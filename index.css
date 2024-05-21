@@ -1,0 +1,45 @@
+body {
+    background-color: white
+}
+
+h1{
+    font-size: 40px
+}
+
+.box{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-align:Center;
+    
+}
+
+.button {
+    background-color: #04AA6D; /* Green */
+    border-style: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#chord-buttons{
+    margin-left:25%;
+    margin-right: 25%;
+    text-align:center;
+    
+}
+
+#header {
+    text-align: center;
+    border-color:black;
+}
+
+#summary {
+    text-align:center;
+    
+   
+    margin-left:25%;
+    margin-right:25%;
+}
