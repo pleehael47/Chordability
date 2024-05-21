@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    margin: 15px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.chord-container {
+    text-align: center;
+}
+
+.chord {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 690px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: 27px;
+}
+
+.chord-images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.chord-images2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.chord-images2 img {
+    width: 160px;
+    height: 100px;
+}
+.chord-images img {
+    width: 100px;
+    height: auto;
+}
+
+.song-list {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: large;
+}
+
+.song-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.song-list li {
+    margin: 5px 0;
+}
+
+#next-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#next-button2 {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
