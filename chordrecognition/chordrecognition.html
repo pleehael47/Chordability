@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="chordrecognition.css">
+
+</head>
+<body>
+<div id ="header" class = "box">
+    <div id = "header-text">Chordability: Chord Recognition</div>
+    <div id = "header-score">Score: 0/0</div>
+
+</div>
+<div id ="summary" class = "box">
+    <p>Welcome to Chordability: Chord Recognition! Chord Recognition assist you in memorizing the finger placement
+        of common guitar chords. To play simply press on the green buttons below that corresponds to the photo. In the top right 
+        you will see your score of how many right out of how many total. There is no timelimit or goal to meet, just continue doing it to 
+        recognize your chords! 
+
+    </p>
+</div>
+
+<div class = "box" id = "photo-box">
+    <img id = "chord_photo" src = "chordphotos/gmajor_chord.png" alt ="amajor_chord" data-number = "8">
+
+</div>
+
+
+<div id = "answer-buttons" class= "box">
+    <button type = "button" class = "button box answer" data-number = "1"> Amajor</button>
+    <button type = "button" class = "button box answer" data-number = "2"> Aminor</button>
+    <button type = "button" class = "button box answer" data-number = "3"> Cmajor</button>
+    <button type = "button" class = "button box answer" data-number = "4"> Dmajor</button>
+    <button type = "button" class = "button box answer" data-number = "5"> Emajor</button>
+    <button type = "button" class = "button box answer" data-number = "6"> Eminor</button>
+    <button type = "button" class = "button box answer" data-number = "7"> Fmajor</button>
+    <button type = "button" class = "button box answer" data-number = "8"> Gmajor</button>
+
+</div>
+
+<div id = "main-menu">
+    <button type = "button" class = "button box" id = "main-menu-button"> Main Menu</button>
+</div>
+
+<script src="chordrecognition.js"></script>
+
+
+</body>
+</html>
