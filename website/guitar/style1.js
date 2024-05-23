@@ -60,7 +60,7 @@ const chordProgressions = [
 {
     progression: ["Em", "C", "G", "D"],
     songs: [
-        { title: "Here With Me", artist: "d4vd", link: "https://www.example.com/songD4VD" },
+        { title: "Here With Me", artist: "d4vd", link: "https://youtu.be/Ip6cw8gfHHI?si=bfxnYOye1RueTR-y" },
         { title: "Let Her Go", artist: "Passenger", link: "https://www.youtube.com/watch?v=RBumgq5yVrA" },
         { title: "The Night We Met", artist: "Lord Huron", link: "https://www.youtube.com/watch?v=KtlgYxa6BMU" }
     ]
