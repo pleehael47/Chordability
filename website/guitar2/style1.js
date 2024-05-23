@@ -53,7 +53,7 @@ const chordProgressions = [
         progression: ["G", "Cadd9", "Dsus4"],
         songs: [
             { title: "Patience", artist: "Guns N' Roses", link: "https://www.youtube.com/watch?v=ErvgV4P6Fzc" },
-            { title: "Learning to Fly", artist: "Tom Petty", link: "https://www.youtube.com/watch?v=s5BJXwNeKsQ" },
+            { title: "Wonderwall", artist: "Oasis", link: "https://www.youtube.com/watch?v=6hzrDeceEKc" },
             { title: "The Scientist", artist: "Coldplay", link: "https://www.youtube.com/watch?v=RB-RcX5DS5A" }
         ]
     },
