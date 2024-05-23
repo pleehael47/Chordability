@@ -1,6 +1,10 @@
 # Chordability
 AnaVation Hackathon Project
 
+Download Instructions:
+
+Go to main repository page
+
 Click the green “<> Code” button
 
 Click “Download Zip”
