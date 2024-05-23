@@ -53,7 +53,7 @@ const chordProgressions = [
     progression: ["A", "D", "E", "A"],
     songs: [
         { title: "Three Little Birds", artist: "Bob Marley", link: "https://youtu.be/zaGUr6wzyT8?si=dpSXR0kAGZId3aaF" },
-        { title: "Jambalaya (On the Bayou)", artist: "Hank Williams", link: "https://youtu.be/xnKOVPXhlnE?si=UMLiGlN7_BwsMX66" },
+        { title: "Let You Break My Heart Again", artist: "Laufey", link: "https://youtu.be/NLphEFOyoqM?si=nLMdu_P5jRTfe9Oz" },
         { title: "Brown Eyed Girl", artist: "Van Morrison", link: "https://www.youtube.com/watch?v=UfmkgQRmmeE" }
     ]
 },
@@ -61,7 +61,6 @@ const chordProgressions = [
     progression: ["Em", "C", "G", "D"],
     songs: [
         { title: "Here With Me", artist: "d4vd", link: "https://www.example.com/songD4VD" },
-        { title: "Wonderwall", artist: "Oasis", link: "https://www.youtube.com/watch?v=6hzrDeceEKc" },
         { title: "Let Her Go", artist: "Passenger", link: "https://www.youtube.com/watch?v=RBumgq5yVrA" },
         { title: "The Night We Met", artist: "Lord Huron", link: "https://www.youtube.com/watch?v=KtlgYxa6BMU" }
     ]
