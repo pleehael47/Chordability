@@ -29,7 +29,7 @@ const chordProgressions = [
     progression: ["Am", "F", "C", "G"],
     songs: [
         { title: "Rolling in the Deep", artist: "Adele", link: "https://www.youtube.com/watch?v=rYEDA3JcQqw" },
-        { title: "Hello", artist: "Adele", link: "https://youtu.be/be12BC5pQLE?si=neNB8d0Ce3oBI_or" },
+        { title: "Best Friend", artist: "Laufey", link: "https://youtu.be/-vriWOM7EPI?si=XDDYJqqvDikhZI6K" },
         { title: "Someone Like You", artist: "Adele", link: "https://www.youtube.com/watch?v=hLQl3WQQoQ0" }
     ]
 },
@@ -60,6 +60,7 @@ const chordProgressions = [
 {
     progression: ["Em", "C", "G", "D"],
     songs: [
+        { title: "Here With Me", artist: "d4vd", link: "https://www.example.com/songD4VD" },
         { title: "Wonderwall", artist: "Oasis", link: "https://www.youtube.com/watch?v=6hzrDeceEKc" },
         { title: "Let Her Go", artist: "Passenger", link: "https://www.youtube.com/watch?v=RBumgq5yVrA" },
         { title: "The Night We Met", artist: "Lord Huron", link: "https://www.youtube.com/watch?v=KtlgYxa6BMU" }
