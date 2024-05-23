@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     //Buttons that lead from main menu to each modes and vice versa
     main_menu_button.addEventListener('click', function() {
-        navigateToNewPage("mainmenu", "index")
+        navigateToNewPage("..", "index")
     })
 
     function updateScore(answer_button, chord_photo, score){
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     //navigateToNewPage function navigates users to page they want to visit
     function navigateToNewPage(folderName, fileName) {
-        window.location.href = "../" + folderName + "/" + fileName + '.html'
+        window.location.href = folderName + "/" + fileName + '.html'
     }
 });
 
