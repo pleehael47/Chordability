@@ -14,6 +14,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function navigateToNewPage(folderName, fileName) {
-    window.location.href = "../" + folderName + "/" + fileName + '.html'
+    window.location.href = folderName + "/" + fileName + '.html'
 }
 
