@@ -5,7 +5,7 @@ const chordProgressions = [
     progression: ["G", "C", "Em", "D"],
     songs: [
         { title: "Hey Jude", artist: "The Beatles", link: "https://youtu.be/mQER0A0ej0M?si=qw1O-5nXiRVvikTV" },
-        { title: "Sweet Home Alabama", artist: "Lynyrd Skynyrd", link: "https://youtu.be/-p8GXZcdrIk?si=n0tcLpjax0f8AIOy" },
+        { title: "Perfect", artist: "Ed Sheeran", link: "https://youtu.be/2Vv-BfVoq4g?si=Nburiwy1V9P9qN8y" },
         { title: "Free Fallin'", artist: "Tom Petty", link: "https://youtu.be/T3phscjgc_A?si=KyGGWiACX7-KZN-E" }
     ]
 },
