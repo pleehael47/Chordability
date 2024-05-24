@@ -64,6 +64,14 @@ const chordProgressions = [
             { title: "With or Without You", artist: "U2", link: "https://youtu.be/ujNeHIo7oTE?si=O256FU-yJ-5s3OVm" },
             { title: "Hey Soul Sister", artist: "Train", link: "https://www.youtube.com/watch?v=kVpv8-5XWOI" }
         ]
+    },
+    {
+        progression: ["G", "B", "C", "Cm"],
+        songs: [
+            { title: "Creep", artist: "Radiohead", link: "https://youtu.be/gyYjoOQRWUA?si=QxJnlDUrfYzcocP5" },
+            { title: "Misery", artist: "Maroon 5", link: "https://youtu.be/AYcVajbhdRQ?si=l2OOUY4NVwx_p96X" },
+            { title: "Don't Look Back in Anger", artist: "Oasis", link: "https://youtu.be/cmpRLQZkTb8?si=NF9g3jH0AfTODF2h" }
+        ]
     }
     
 ];
